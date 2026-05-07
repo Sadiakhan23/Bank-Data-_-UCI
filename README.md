@@ -1,4 +1,4 @@
-# BANK MARKETING DASHBOARD Campaign Performance & Customer Insight
+# BANK MARKETING DASHBOARD Campaign 
 Tableau HR dashboard analysing employee attrition, workforce trends, and key retention drivers.<br>
 📊 Bank Marketing Campaign Dashboard — Built in Tableau<br>
 🎯 Objective<br>
