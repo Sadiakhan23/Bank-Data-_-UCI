@@ -63,19 +63,19 @@ ________________________________________
 •	Longer, meaningful conversations 
 •	Targeting students, retirees, and high-balance customers 
 •	Customers with higher education levels 
-Steps for the procedure:
-Step 1: Download the dataset from Kaggle. UCI Bank Data set
-Step 2: Open Tableau
-Step 3: Load the dataset and do data cleaning in the Data Source tab
-Step 4: Check the variables and set their types. For this analysis, all columns with digits are set as whole numbers, but the variable “Balance” is set as a decimal. 
-Step 5: CREATE calculated column for Valid Days Since Last Contact.
-Step 6: Check for Nulls & Remove with filters.
-Step 7: Create more calculated columns for variables like Subscribed Flag, Conversion rate, total customers etc. 
-Step 8: Build Visualizations 
-Step 9: Title: “Bank Marketing Campaign Analysis: Improving Deposit Conversion”
-✔ Add insight box:
-Examples:
-•	“Customers with higher balances show higher conversion rates” 
-•	“Cellular contact outperforms telephone” 
+Steps for the procedure: <br>
+Step 1: Download the dataset from Kaggle. UCI Bank Data set<br>
+Step 2: Open Tableau<br>
+Step 3: Load the dataset and do data cleaning in the Data Source tab<br>
+Step 4: Check the variables and set their types. For this analysis, all columns with digits are set as whole numbers, but the variable “Balance” is set as a decimal. <br>
+Step 5: CREATE a calculated column for Valid Days Since Last Contact.<br>
+Step 6: Check for Nulls & Remove with filters.<br>
+Step 7: Create more calculated columns for variables like Subscribed Flag, Conversion rate, total customers etc. <br>
+Step 8: Build Visualisations <br>
+Step 9: Title: “Bank Marketing Campaign Analysis: Improving Deposit Conversion”<br>
+✔ Add insight box:<br>
+Examples:<br>
+•	“Customers with higher balances show higher conversion rates” <br>
+•	“Cellular contact outperforms telephone” <br>
 •	“Previous campaign success strongly predicts future conversion”
 
